@@ -1,0 +1,64 @@
+root
+Root Node
+Please select the Realme Android phone model. 
+root 3
+1
+narzo50A
+What is the problem?
+2
+9_Pro_5G
+What is the problem?
+3
+C11_Edge
+What is the problem?
+1 3
+1-1
+Phone not charging..
+connect a proper charger with proper data cable. Dit It?
+1-2
+Phone is Getting hot.
+Turn on the AI temp controler.
+1-3
+No sound is coming.
+Raise the Ringtone volume. Did it? 
+1-1 2
+1-1-1
+Yes, but it is not working.
+Purchase a new hose.
+1-1-2
+No, how to use charger?.
+Plug it in the back.
+1-3 2
+1-3-1
+Yes, But No responce.
+okay, our Technical Team will contact you soon.
+1-3-2
+No, Thank you.
+You most welcome.
+2 3
+2-1
+Phone is not starting...
+
+2-2
+Machine ends too early.
+Turn the timer knob.
+2-3
+Machine knobs are broken.
+We'll send someone over.
+2-1 3
+2-1-1
+Yes, but an error is displayed, "Fuser out."
+We'll send someone over.
+2-1-2
+I didn't know there was a plug.
+Try plugging it in the back.
+2-1-3
+Yes, but still won't turn on.
+Call an Electrician.
+3 2
+3-1
+My clothes are wet.
+Great! Now purchase a dryer.
+3-2
+Lid won't close.
+call a repair man to fix it.

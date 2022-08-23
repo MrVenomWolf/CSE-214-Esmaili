@@ -1,0 +1,62 @@
+root
+Root Node
+What genre of music do you want to listen to?
+root 3
+1
+Jazz
+Which artist do you want to hear?
+2
+Blues
+Which player do you want to listen to?
+3
+Doom Metal
+Which band do you want to play?
+1 2
+1-1
+JJ Johnson
+Now playing the song "Turnpike" by JJ Johnson
+1-2
+John Coltrane
+Now playing the song "So What" by John Coltrane
+2 3
+2-1
+B.B. King
+Which song would you like to play?
+2-2
+Eric Clapton
+Which song would you like to hear?
+2-3
+The Black Keys
+Which song would you like to hear?
+2-1 3
+2-1-1
+The Thrill is Gone
+Now playing "The Thrill is Gone" by B.B. King
+2-1-2
+Rock Me Baby
+Now playing "Rock Me Baby" by B.B. King
+2-1-3
+Every Day I Have the Blues
+Now playing "Every Day I Have the Blues" by B.B. King
+2-2 2
+2-2-1
+Layla
+Now playing "Layla" by Eric Clapton
+2-2-2
+I Shot the Sheriff
+Now Playing "I Shot the Sheriff" by Eric Clapton
+2-3 2
+2-3-1
+Thickfreakness
+Now playing "Thickfreakness" by The Black Keys
+2-3-2
+Delta Kream
+Now playing "Delta Kream" by The Black Keys
+3 2
+3-1
+Sleep
+Now playing "Marijuanauts" by Sleep
+3-2
+Electric Wizard
+Now playing "Vinnum Sabathi" by Electric Wizard
+

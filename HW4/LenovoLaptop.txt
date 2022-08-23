@@ -1,0 +1,115 @@
+root
+Root Node
+What Model is the Laptop?
+root 3
+1
+MacBook
+What is the problem?
+2
+Lenovo_Legion
+What is the problem?
+3
+Dell
+What is the problem?
+1 3
+1-1
+Stuck in Boot Screen.
+Have you tried restarting the laptop?
+1-2
+Cannot login to Network Or Domain.
+Do you have proper internet connection?
+1-3
+My Macbook is not charging.
+Have you tried changing the adapter?
+1-1 3
+1-1-1
+Yes, but it boots up to the same error.
+Please contact (800) MY–APPLE (800–692–7753) for more help.
+1-1-2
+No, I didn't try that option.
+Please try restart your Mac.
+1-1-3
+Yes, but sometimes it works, but the issue is consistent.
+Please contact (800) MY–APPLE (800–692–7753) for more help.
+1-2 3
+1-2-1
+Yes, but it keeps showing Login Failed.
+Please double check your credentials.
+1-2-2
+No, but I have a super old internet cable.
+Please change your cable or try another cable.
+1-2-3
+Yes, but it sometimes shows Request timed out.
+Please Try connecting through Wi-fi or another ethernet wire
+1-3 3
+1-3-1
+Yes, but still the device doesn't charge.
+Please check the device port.
+1-3-2
+No, I didnot have another extra adapter.
+Please buy a new one.
+1-3-3
+Yes, but I got wet in rain with my Mac.
+Please contact (800) MY–APPLE (800–692–7753) for more help.
+2 3
+2-1
+Facing a blue screen error.
+Have you recently changed anything in your laptop?
+2-2
+It doesnot turn on but the fans seem working.
+Have you tried to restart it?
+2-3
+My computer is super slow.
+Have you tried cleaning your disk?
+2-1 3
+2-1-1
+Yes, I recently did a windows update.
+The device needs to be formatted. We can do a data backup.
+2-1-2
+No, I didn't update anything.
+We can do a backup and check for any bootdrive issue.
+2-1-3
+Yes, I tried installing a new software from a website.
+We can attempt recovery and uninstall the software.
+2-2 2
+2-2-1
+Yes, but the screen doesn't show anything.
+We can check the display if it is damaged or not.
+2-2-2
+No.
+Please restart the device.
+2-3 2
+2-3-1
+Yes, but laptop is still slow.
+Is the storage full?
+2-3-2
+No.
+Please clear your disk of temporary files and caches.
+3 2
+3-1
+My Keypad is not working.
+Our Technical Team would contact you.
+3-2
+My battery is draining very fast.
+Is any of the programs updating in the background?
+3-2 2
+3-2-1
+Yes.
+Please wait for the program to finish updating or close it.
+3-2-2
+No.
+Is your OS updated in the latest version or not?
+2-3-1 2
+2-3-1-1
+Yes.
+Please try deleting for moving your files somewhere else.
+2-3-1-2
+No.
+Please scan your device for viruses.
+3-2-2 2
+3-2-2-1
+Yes. Everything is updated.
+Please consider upgrading your system.
+3-2-2-2
+No. 
+Please update your OS to the latest version.
